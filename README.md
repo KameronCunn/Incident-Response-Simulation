@@ -1,5 +1,4 @@
-# PROJECTNAME
-
+# Incident Response Simulation
 ## Objective
 [Brief Objective - Remove this afterwards]
 
